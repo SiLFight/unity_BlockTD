@@ -1,0 +1,66 @@
+﻿[
+  {
+    "name": "RedSlime",
+    "hp": 2,
+    "speed": 3,
+    "cost": 2,
+    "vaule":1,
+    "intro":"红史莱姆，速度快，体质弱，费用低"
+  },
+  {
+    "name": "BigRedSlime",
+    "hp": 4,
+    "speed": 3,
+    "cost": 6,
+    "vaule":2,
+    "intro":"大型红史莱姆，速度快，体质低，费用低，死亡后分裂出两个红史莱姆"
+  },
+  {
+    "name": "BlueSlime",
+    "hp": 3,
+    "speed": 2,
+    "cost": 3,
+    "vaule":1,
+    "intro":"蓝史莱姆，速度中等，体质比红史莱姆好一点，费用低"
+  },
+  {
+    "name": "BigBlueSlime",
+    "hp": 12,
+    "speed": 2,
+    "cost": 12,
+    "vaule":3,
+    "intro":"大型蓝史莱姆，速度中等，体质比大红史莱姆好一点，费用低，死亡后分裂出3个蓝史莱姆"
+  },
+  {
+    "name": "DogFM",
+    "hp": 15,
+    "speed": 2,
+    "cost": 15,
+    "vaule":4,
+    "intro":"狗步兵，速度中等，体质中等，费用中等"
+  },
+  {
+    "name": "EliteDogFM",
+    "hp": 60,
+    "speed": 1.5,
+    "cost": 60,
+    "vaule":20,
+    "intro":"精英狗步兵，速度慢，体质高，费用高，带有群体加速光环"
+  },
+ {
+    "name": "FM",
+    "hp": 20,
+    "speed": 2,
+    "cost": 20,
+    "vaule":5,
+    "intro":"人类步兵，速度中等，体质中上，费用中"
+  },
+ {
+    "name": "EliteFM",
+    "hp": 60,
+    "speed": 1.5,
+    "cost": 60,
+    "vaule":20,
+    "intro":"精英人类步兵，速度慢，体质高，费用高，带有群体回血光环"
+  }
+]
